@@ -17,7 +17,4 @@
 			"path": "../libs/lib2/src/mycorp/lib2"
 		}
 	],
-	"settings": {
-		// "calva.enableClojureLspOnStart": "when-file-opened-use-furthest-project",
-	}
 }
