@@ -1,4 +1,4 @@
-# How the project is structured
+# How the repo is structured
 
 The repo has a top level *"libs"* folder containing units of reusable code. Each lib
 has its own `deps.edn`.
